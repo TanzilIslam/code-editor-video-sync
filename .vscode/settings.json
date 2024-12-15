@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "scrimba",
+        "turbopack"
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always"
+    },
+    "editor.formatOnSave": true
+}
